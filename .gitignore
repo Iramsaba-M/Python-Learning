@@ -1,0 +1,6 @@
+
+*.log       # Ignores all .log files
+*.pyc
+node_modules/
+# This is environment folder
+project_venv/
